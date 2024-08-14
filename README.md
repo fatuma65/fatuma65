@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi, I’m Namale Fatuma, a web developer from Kampala, Uganda.
-🌱 I’m currently learning to Front-end Development.
-👀 I’m interested in front-end and back-end development.
-👯 I’m looking to collaborate on open-source projects.
+👋 Hi, I’m Namale Fatuma, a web developer from Kampala, Uganda.<br>
+🌱 I’m currently learning to Front-end Development.<br>
+👀 I’m interested in front-end and back-end development.<br>
+👯 I’m looking to collaborate on open-source projects.<br>
 💬 Ask me about web-development(HTML, CSS, JavaScript, react, node.js, express)
 
 
